@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/dotnet-razor-webapp-00000.props" />
+</Project>

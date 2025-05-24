@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iboTaZ66Z5M=",
+  "success": true,
+  "projectFilePath": "/home/sabr/Documents/projects/csharp/dotnet/dotnet-razor-webapp-00000/dotnet-razor-webapp-00000.csproj",
+  "expectedPackageFiles": [
+    "/home/sabr/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

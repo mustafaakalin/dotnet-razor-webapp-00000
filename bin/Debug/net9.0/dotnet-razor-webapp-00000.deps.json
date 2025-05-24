@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "dotnet-razor-webapp-00000/1.0.0": {
+        "runtime": {
+          "dotnet-razor-webapp-00000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-razor-webapp-00000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
